@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1586968087 source:c:\users\eddy cisneros\source\repos\graficación\ghostkill\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+
+976692172 c:\program files (x86)\codeblocks\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
